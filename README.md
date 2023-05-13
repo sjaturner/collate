@@ -1,4 +1,4 @@
-#Collate lines based on keys for space separated input
+# Collate lines based on keys for space separated input
 
 There must be something else which can do this, I just have not seen
 it yet.  Also, this would probably be much nicer in Python and faster -
